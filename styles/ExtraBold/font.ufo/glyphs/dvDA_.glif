@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvDA" format="1">
+  <advance width="422"/>
+  <unicode hex="0926"/>
+  <outline>
+    <contour>
+      <point x="368" y="665" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="379" y="-2" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="368" y="665" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="374" y="-2" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="34" y="214" type="line"/>
+      <point x="34" y="116"/>
+      <point x="84" y="65"/>
+      <point x="193" y="65" type="curve"/>
+      <point x="223" y="65"/>
+      <point x="245" y="68"/>
+      <point x="261" y="72" type="curve"/>
+      <point x="261" y="-2" type="line"/>
+      <point x="379" y="-2" type="line"/>
+      <point x="379" y="267" type="line"/>
+      <point x="261" y="267" type="line"/>
+      <point x="261" y="176" type="line"/>
+      <point x="246" y="172"/>
+      <point x="232" y="169"/>
+      <point x="210" y="169" type="curve"/>
+      <point x="166" y="169"/>
+      <point x="152" y="187"/>
+      <point x="152" y="218" type="curve" smooth="yes"/>
+      <point x="152" y="344" type="line" smooth="yes"/>
+      <point x="152" y="373"/>
+      <point x="161" y="390"/>
+      <point x="205" y="390" type="curve" smooth="yes"/>
+      <point x="368" y="390" type="line"/>
+      <point x="368" y="566" type="line"/>
+      <point x="458" y="566" type="line"/>
+      <point x="458" y="665" type="line"/>
+      <point x="-35" y="665" type="line"/>
+      <point x="-35" y="566" type="line"/>
+      <point x="250" y="566" type="line"/>
+      <point x="250" y="497" type="line"/>
+      <point x="205" y="497" type="line" smooth="yes"/>
+      <point x="89" y="497"/>
+      <point x="34" y="457"/>
+      <point x="34" y="348" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

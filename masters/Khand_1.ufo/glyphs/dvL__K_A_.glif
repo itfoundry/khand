@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvL_KA" format="1">
+  <advance width="1071"/>
+  <outline>
+    <contour>
+      <point x="824" y="0" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="824" y="0" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="824" y="671" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="824" y="671" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="501" y="554" type="line"/>
+      <point x="-40" y="554" type="line"/>
+      <point x="-40" y="671" type="line"/>
+      <point x="501" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="359" type="line"/>
+      <point x="481" y="363"/>
+      <point x="460" y="365"/>
+      <point x="442" y="365" type="curve" smooth="yes"/>
+      <point x="407" y="365"/>
+      <point x="393" y="349"/>
+      <point x="393" y="326" type="curve" smooth="yes"/>
+      <point x="393" y="212" type="line"/>
+      <point x="253" y="212" type="line"/>
+      <point x="253" y="326" type="line" smooth="yes"/>
+      <point x="253" y="349"/>
+      <point x="247" y="365"/>
+      <point x="214" y="365" type="curve" smooth="yes"/>
+      <point x="181" y="365"/>
+      <point x="175" y="349"/>
+      <point x="175" y="326" type="curve" smooth="yes"/>
+      <point x="175" y="188" type="line" smooth="yes"/>
+      <point x="175" y="154"/>
+      <point x="185" y="129"/>
+      <point x="246" y="129" type="curve" smooth="yes"/>
+      <point x="268" y="129"/>
+      <point x="287" y="130"/>
+      <point x="305" y="132" type="curve"/>
+      <point x="305" y="4" type="line"/>
+      <point x="289" y="2"/>
+      <point x="267" y="0"/>
+      <point x="238" y="0" type="curve" smooth="yes"/>
+      <point x="95" y="0"/>
+      <point x="35" y="59"/>
+      <point x="35" y="182" type="curve" smooth="yes"/>
+      <point x="35" y="331" type="line" smooth="yes"/>
+      <point x="35" y="434"/>
+      <point x="96" y="494"/>
+      <point x="209" y="494" type="curve" smooth="yes"/>
+      <point x="275" y="494"/>
+      <point x="308" y="463"/>
+      <point x="320" y="439" type="curve"/>
+      <point x="340" y="469"/>
+      <point x="370" y="493"/>
+      <point x="428" y="493" type="curve" smooth="yes"/>
+      <point x="455" y="493"/>
+      <point x="485" y="493"/>
+      <point x="529" y="475" type="curve"/>
+    </contour>
+    <component base="dvKA" xOffset="441"/>
+  </outline>
+</glyph>

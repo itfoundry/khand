@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvGH_MA" format="1">
+  <advance width="921"/>
+  <outline>
+    <contour>
+      <point x="415" y="196" type="line"/>
+      <point x="371" y="180"/>
+      <point x="315" y="165"/>
+      <point x="254" y="165" type="curve" smooth="yes"/>
+      <point x="193" y="165"/>
+      <point x="161" y="180"/>
+      <point x="161" y="229" type="curve" smooth="yes"/>
+      <point x="161" y="262" type="line" smooth="yes"/>
+      <point x="161" y="290"/>
+      <point x="171" y="309"/>
+      <point x="214" y="309" type="curve" smooth="yes"/>
+      <point x="260" y="309" type="line"/>
+      <point x="260" y="418" type="line"/>
+      <point x="218" y="418" type="line" smooth="yes"/>
+      <point x="176" y="419"/>
+      <point x="167" y="438"/>
+      <point x="167" y="466" type="curve" smooth="yes"/>
+      <point x="167" y="512" type="line" smooth="yes"/>
+      <point x="167" y="549"/>
+      <point x="177" y="566"/>
+      <point x="177" y="566" type="curve"/>
+      <point x="332" y="566" type="line"/>
+      <point x="332" y="665" type="line"/>
+      <point x="-35" y="665" type="line"/>
+      <point x="-35" y="566" type="line"/>
+      <point x="56" y="566" type="line"/>
+      <point x="56" y="566"/>
+      <point x="49" y="547"/>
+      <point x="49" y="512" type="curve" smooth="yes"/>
+      <point x="49" y="462" type="line" smooth="yes"/>
+      <point x="49" y="416"/>
+      <point x="61" y="385"/>
+      <point x="92" y="366" type="curve"/>
+      <point x="58" y="350"/>
+      <point x="43" y="318"/>
+      <point x="43" y="266" type="curve" smooth="yes"/>
+      <point x="43" y="215" type="line" smooth="yes"/>
+      <point x="43" y="120"/>
+      <point x="108" y="59"/>
+      <point x="247" y="59" type="curve" smooth="yes"/>
+      <point x="322" y="59"/>
+      <point x="378" y="79"/>
+      <point x="415" y="90" type="curve"/>
+    </contour>
+    <component base="dvMA" xOffset="313"/>
+  </outline>
+</glyph>

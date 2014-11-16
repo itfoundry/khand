@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Adieresis">
+  <advance width="462" />
+  <unicode hex="00C4" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="305" y="731" />
+      <point x="341" y="731" />
+      <point x="352" y="750" />
+      <point type="curve" x="352" y="776" />
+      <point x="352" y="804" />
+      <point x="341" y="822" />
+      <point type="curve" x="305" y="822" />
+      <point x="269" y="822" />
+      <point x="257" y="804" />
+      <point type="curve" x="257" y="776" />
+      <point x="257" y="750" />
+      <point x="269" y="731" />
+    </contour>
+    <contour>
+      <point type="curve" x="153" y="731" />
+      <point x="189" y="731" />
+      <point x="201" y="750" />
+      <point type="curve" x="201" y="776" />
+      <point x="201" y="804" />
+      <point x="189" y="822" />
+      <point type="curve" x="153" y="822" />
+      <point x="117" y="822" />
+      <point x="106" y="804" />
+      <point type="curve" x="106" y="776" />
+      <point x="106" y="750" />
+      <point x="117" y="731" />
+    </contour>
+    <contour>
+      <point type="line" x="168" y="267" />
+      <point type="line" x="229" y="583" />
+      <point type="line" x="292" y="267" />
+    </contour>
+    <contour>
+      <point type="line" x="346" y="0" />
+      <point type="line" x="450" y="0" />
+      <point type="line" x="307" y="682" />
+      <point type="line" x="156" y="682" />
+      <point type="line" x="11" y="0" />
+      <point type="line" x="116" y="0" />
+      <point type="line" x="150" y="175" />
+      <point type="line" x="311" y="175" />
+    </contour>
+  </outline>
+</glyph>

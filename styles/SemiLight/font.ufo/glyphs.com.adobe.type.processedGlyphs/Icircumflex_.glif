@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Icircumflex">
+  <advance width="207" />
+  <unicode hex="00CE" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="70" y="0" />
+      <point type="line" x="138" y="0" />
+      <point type="line" x="138" y="671" />
+      <point type="line" x="70" y="671" />
+    </contour>
+    <contour>
+      <point type="line" x="137" y="819" />
+      <point type="line" x="81" y="819" />
+      <point type="line" x="30" y="712" />
+      <point type="line" x="73" y="712" />
+      <point type="line" x="109" y="776" />
+      <point type="line" x="145" y="712" />
+      <point type="line" x="187" y="712" />
+    </contour>
+  </outline>
+</glyph>

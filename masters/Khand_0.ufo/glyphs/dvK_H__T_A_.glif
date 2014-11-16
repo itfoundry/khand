@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKH_TA" format="1">
+  <advance width="959"/>
+  <outline>
+    <contour>
+      <point x="589" y="115" type="line"/>
+      <point x="589" y="45"/>
+      <point x="629" y="-1"/>
+      <point x="711" y="-1" type="curve"/>
+      <point x="729" y="-1" type="line"/>
+      <point x="729" y="41" type="line"/>
+      <point x="654" y="39"/>
+      <point x="634" y="70"/>
+      <point x="634" y="115" type="curve" smooth="yes"/>
+      <point x="634" y="383" type="line" smooth="yes"/>
+      <point x="634" y="428"/>
+      <point x="659" y="463"/>
+      <point x="734" y="463" type="curve"/>
+      <point x="773" y="463"/>
+      <point x="809" y="455"/>
+      <point x="834" y="449" type="curve"/>
+      <point x="834" y="0" type="line"/>
+      <point x="879" y="0" type="line"/>
+      <point x="879" y="604" type="line"/>
+      <point x="979" y="604" type="line"/>
+      <point x="979" y="644" type="line"/>
+      <point x="512" y="644" type="line"/>
+      <point x="512" y="604" type="line"/>
+      <point x="834" y="604" type="line"/>
+      <point x="834" y="490" type="line"/>
+      <point x="807" y="498"/>
+      <point x="776" y="505"/>
+      <point x="734" y="505" type="curve"/>
+      <point x="639" y="505"/>
+      <point x="589" y="458"/>
+      <point x="589" y="383" type="curve"/>
+    </contour>
+    <component base="dvKH"/>
+  </outline>
+</glyph>

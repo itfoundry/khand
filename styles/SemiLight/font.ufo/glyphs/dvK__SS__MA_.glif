@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_SS_MA" format="1">
+  <advance width="988"/>
+  <outline>
+    <contour>
+      <point x="663" y="182" type="line"/>
+      <point x="663" y="141"/>
+      <point x="652" y="117"/>
+      <point x="588" y="117" type="curve" smooth="yes"/>
+      <point x="525" y="117"/>
+      <point x="514" y="141"/>
+      <point x="514" y="182" type="curve"/>
+      <point x="514" y="311" type="line" smooth="yes"/>
+      <point x="514" y="352"/>
+      <point x="525" y="376"/>
+      <point x="588" y="376" type="curve" smooth="yes"/>
+      <point x="663" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="430" type="line"/>
+      <point x="724" y="595" type="line"/>
+      <point x="853" y="595" type="line"/>
+      <point x="853" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="853" y="0" type="line"/>
+      <point x="915" y="0" type="line"/>
+      <point x="915" y="595" type="line"/>
+      <point x="1012" y="595" type="line"/>
+      <point x="1012" y="649" type="line"/>
+      <point x="417" y="649" type="line"/>
+      <point x="417" y="595" type="line"/>
+      <point x="663" y="595" type="line"/>
+      <point x="663" y="430" type="line"/>
+      <point x="588" y="430" type="line" smooth="yes"/>
+      <point x="493" y="430"/>
+      <point x="453" y="390"/>
+      <point x="453" y="312" type="curve" smooth="yes"/>
+      <point x="453" y="181" type="line" smooth="yes"/>
+      <point x="453" y="103"/>
+      <point x="493" y="62"/>
+      <point x="588" y="62" type="curve" smooth="yes"/>
+      <point x="684" y="62"/>
+      <point x="724" y="103"/>
+      <point x="724" y="181" type="curve"/>
+      <point x="724" y="376" type="line"/>
+      <point x="853" y="376" type="line"/>
+    </contour>
+    <component base="dvK_SS"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvPHx" format="1">
+  <advance width="457"/>
+  <outline>
+    <contour>
+      <point x="24" y="-14" type="curve" smooth="yes"/>
+      <point x="24" y="-51"/>
+      <point x="38" y="-80"/>
+      <point x="89" y="-80" type="curve" smooth="yes"/>
+      <point x="139" y="-80"/>
+      <point x="154" y="-51"/>
+      <point x="154" y="-14" type="curve" smooth="yes"/>
+      <point x="154" y="22"/>
+      <point x="139" y="51"/>
+      <point x="89" y="51" type="curve" smooth="yes"/>
+      <point x="38" y="51"/>
+      <point x="24" y="22"/>
+    </contour>
+    <component base="dvPH"/>
+  </outline>
+</glyph>

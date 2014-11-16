@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvC_R" format="1">
+  <advance width="259"/>
+  <outline>
+    <contour>
+      <point x="320" y="660" type="line"/>
+      <point x="-36" y="660" type="line"/>
+      <point x="-36" y="575" type="line"/>
+      <point x="320" y="575" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="175" type="line"/>
+      <point x="320" y="169"/>
+      <point x="294" y="164"/>
+      <point x="256" y="164" type="curve" smooth="yes"/>
+      <point x="200" y="164"/>
+      <point x="175" y="184"/>
+      <point x="175" y="226" type="curve" smooth="yes"/>
+      <point x="175" y="327" type="line" smooth="yes"/>
+      <point x="175" y="378"/>
+      <point x="185" y="400"/>
+      <point x="185" y="400" type="curve"/>
+      <point x="267" y="400" type="line"/>
+      <point x="267" y="486" type="line"/>
+      <point x="8" y="486" type="line"/>
+      <point x="8" y="396" type="line"/>
+      <point x="82" y="396" type="line"/>
+      <point x="82" y="396"/>
+      <point x="75" y="372"/>
+      <point x="75" y="328" type="curve" smooth="yes"/>
+      <point x="75" y="223" type="line" smooth="yes"/>
+      <point x="75" y="126"/>
+      <point x="125" y="75"/>
+      <point x="238" y="75" type="curve" smooth="yes"/>
+      <point x="271" y="75"/>
+      <point x="301" y="79"/>
+      <point x="308" y="83" type="curve"/>
+      <point x="244" y="94" type="line"/>
+      <point x="69" y="-61" type="line"/>
+      <point x="194" y="-61" type="line"/>
+      <point x="341" y="75" type="line"/>
+    </contour>
+  </outline>
+</glyph>

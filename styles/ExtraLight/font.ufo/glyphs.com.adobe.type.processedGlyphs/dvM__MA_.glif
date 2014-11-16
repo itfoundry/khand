@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvM_MA">
+  <advance width="925" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="800" y="426" />
+      <point type="line" x="658" y="426" />
+      <point type="line" x="658" y="604" />
+      <point type="line" x="800" y="604" />
+    </contour>
+    <contour>
+      <point type="line" x="613" y="426" />
+      <point type="line" x="531" y="426" />
+      <point x="494" y="426" />
+      <point x="466" y="420" />
+      <point type="curve" x="446" y="408" />
+      <point x="430" y="419" />
+      <point x="407" y="426" />
+      <point type="curve" x="374" y="426" />
+      <point type="line" x="289" y="426" />
+      <point type="line" x="289" y="604" />
+      <point type="line" x="613" y="604" />
+    </contour>
+    <contour>
+      <point type="line" x="613" y="175" />
+      <point x="613" y="130" />
+      <point x="601" y="105" />
+      <point type="curve" x="531" y="105" />
+      <point x="461" y="105" />
+      <point x="449" y="131" />
+      <point type="curve" x="449" y="175" />
+      <point type="line" x="449" y="316" />
+      <point x="449" y="361" />
+      <point x="461" y="386" />
+      <point type="curve" x="531" y="386" />
+      <point type="line" x="613" y="386" />
+    </contour>
+    <contour>
+      <point type="line" x="244" y="175" />
+      <point x="244" y="130" />
+      <point x="232" y="105" />
+      <point type="curve" x="162" y="105" />
+      <point x="92" y="105" />
+      <point x="80" y="131" />
+      <point type="curve" x="80" y="175" />
+      <point type="line" x="80" y="316" />
+      <point x="80" y="361" />
+      <point x="92" y="386" />
+      <point type="curve" x="162" y="386" />
+      <point type="line" x="244" y="386" />
+    </contour>
+    <contour>
+      <point type="line" x="945" y="644" />
+      <point type="line" x="-20" y="644" />
+      <point type="line" x="-20" y="604" />
+      <point type="line" x="244" y="604" />
+      <point type="line" x="244" y="426" />
+      <point type="line" x="162" y="426" />
+      <point x="72" y="426" />
+      <point x="35" y="391" />
+      <point type="curve" x="35" y="316" />
+      <point type="line" x="35" y="175" />
+      <point x="35" y="100" />
+      <point x="72" y="63" />
+      <point type="curve" x="162" y="63" />
+      <point x="252" y="63" />
+      <point x="289" y="100" />
+      <point type="curve" x="289" y="175" />
+      <point type="line" x="289" y="386" />
+      <point type="line" x="365" y="386" />
+      <point x="389" y="386" />
+      <point x="405" y="384" />
+      <point type="curve" x="416" y="375" />
+      <point x="408" y="360" />
+      <point x="404" y="340" />
+      <point type="curve" x="404" y="316" />
+      <point type="line" x="404" y="175" />
+      <point x="404" y="100" />
+      <point x="441" y="63" />
+      <point type="curve" x="531" y="63" />
+      <point x="621" y="63" />
+      <point x="658" y="100" />
+      <point type="curve" x="658" y="175" />
+      <point type="line" x="658" y="386" />
+      <point type="line" x="800" y="386" />
+      <point type="line" x="800" y="0" />
+      <point type="line" x="845" y="0" />
+      <point type="line" x="845" y="604" />
+      <point type="line" x="945" y="604" />
+    </contour>
+  </outline>
+</glyph>

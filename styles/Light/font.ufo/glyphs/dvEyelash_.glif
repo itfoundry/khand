@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvEyelash" format="1">
+  <advance width="242"/>
+  <outline>
+    <contour>
+      <point x="-22" y="600" type="line"/>
+      <point x="343" y="600" type="line"/>
+      <point x="343" y="646" type="line"/>
+      <point x="-22" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="325" type="line"/>
+      <point x="182" y="325" type="line" smooth="yes"/>
+      <point x="109" y="325"/>
+      <point x="69" y="321"/>
+      <point x="69" y="375" type="curve"/>
+      <point x="20" y="375" type="line"/>
+      <point x="20" y="373" type="line" smooth="yes"/>
+      <point x="20" y="287"/>
+      <point x="84" y="279"/>
+      <point x="182" y="279" type="curve" smooth="yes"/>
+      <point x="343" y="279" type="line"/>
+    </contour>
+  </outline>
+</glyph>

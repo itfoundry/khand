@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmII_Anusvara" format="1">
+  <advance width="216"/>
+  <outline>
+    <contour>
+      <point x="58" y="660" type="line"/>
+      <point x="-32" y="660" type="line"/>
+      <point x="-32" y="575" type="line"/>
+      <point x="58" y="575" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="575" type="line"/>
+      <point x="248" y="575" type="line"/>
+      <point x="248" y="660" type="line"/>
+      <point x="158" y="660" type="line"/>
+      <point x="158" y="751" type="line" smooth="yes"/>
+      <point x="158" y="842"/>
+      <point x="106" y="892"/>
+      <point x="4" y="892" type="curve"/>
+      <point x="-1" y="892" type="line" smooth="yes"/>
+      <point x="-102" y="892"/>
+      <point x="-154" y="842"/>
+      <point x="-154" y="751" type="curve" smooth="yes"/>
+      <point x="-154" y="719" type="line"/>
+      <point x="-55" y="719" type="line"/>
+      <point x="-55" y="748" type="line" smooth="yes"/>
+      <point x="-55" y="778"/>
+      <point x="-45" y="800"/>
+      <point x="-1" y="800" type="curve"/>
+      <point x="4" y="800" type="line" smooth="yes"/>
+      <point x="48" y="800"/>
+      <point x="58" y="778"/>
+      <point x="58" y="748" type="curve"/>
+    </contour>
+    <component base="dvAnusvara" xOffset="385" yOffset="-5"/>
+  </outline>
+</glyph>

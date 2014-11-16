@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Dcaron">
+  <advance width="464" />
+  <unicode hex="010E" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="197" y="712" />
+      <point type="line" x="253" y="712" />
+      <point type="line" x="303" y="819" />
+      <point type="line" x="261" y="819" />
+      <point type="line" x="225" y="755" />
+      <point type="line" x="189" y="819" />
+      <point type="line" x="146" y="819" />
+    </contour>
+    <contour>
+      <point type="line" x="337" y="154" />
+      <point x="337" y="98" />
+      <point x="311" y="60" />
+      <point type="curve" x="240" y="60" />
+      <point type="line" x="137" y="60" />
+      <point type="line" x="137" y="612" />
+      <point type="line" x="240" y="612" />
+      <point x="311" y="612" />
+      <point x="337" y="575" />
+      <point type="curve" x="337" y="519" />
+    </contour>
+    <contour>
+      <point type="line" x="70" y="671" />
+      <point type="line" x="70" y="0" />
+      <point type="line" x="245" y="0" />
+      <point x="356" y="0" />
+      <point x="405" y="63" />
+      <point type="curve" x="405" y="152" />
+      <point type="line" x="405" y="520" />
+      <point x="405" y="609" />
+      <point x="353" y="671" />
+      <point type="curve" x="244" y="671" />
+    </contour>
+  </outline>
+</glyph>

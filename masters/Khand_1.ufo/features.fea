@@ -1,0 +1,11 @@
+feature liga {
+sub dv_ka dv_halant dv_ra by dv_k_ra;
+  sub dv_kha dv_halant dv_ra by dv_kh_ra;
+  sub dv_ra dv_matra.u by dv_ra.u;
+  sub dv_ra dv_matra.uu by dv_ra.uu;
+} liga;
+
+
+
+
+

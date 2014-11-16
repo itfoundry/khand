@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJ_BA" format="1">
+  <advance width="761"/>
+  <outline>
+    <contour>
+      <point x="450" y="646" type="line"/>
+      <point x="-22" y="646" type="line"/>
+      <point x="-22" y="600" type="line"/>
+      <point x="450" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="480" type="line"/>
+      <point x="98" y="480" type="line"/>
+      <point x="98" y="433" type="line"/>
+      <point x="210" y="433" type="line"/>
+      <point x="210" y="433"/>
+      <point x="218" y="406"/>
+      <point x="218" y="360" type="curve" smooth="yes"/>
+      <point x="218" y="172" type="line" smooth="yes"/>
+      <point x="218" y="123"/>
+      <point x="193" y="90"/>
+      <point x="123" y="90" type="curve" smooth="yes"/>
+      <point x="86" y="90"/>
+      <point x="58" y="95"/>
+      <point x="30" y="103" type="curve"/>
+      <point x="30" y="53" type="line"/>
+      <point x="55" y="46"/>
+      <point x="79" y="42"/>
+      <point x="123" y="42" type="curve" smooth="yes"/>
+      <point x="221" y="42"/>
+      <point x="271" y="90"/>
+      <point x="271" y="171" type="curve" smooth="yes"/>
+      <point x="271" y="361" type="line" smooth="yes"/>
+      <point x="271" y="409"/>
+      <point x="263" y="434"/>
+      <point x="263" y="434" type="curve"/>
+      <point x="462" y="434" type="line"/>
+    </contour>
+    <component base="dvBA" xOffset="349"/>
+  </outline>
+</glyph>

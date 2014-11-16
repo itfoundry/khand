@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_SSA" format="1">
+  <advance width="685"/>
+  <outline>
+    <contour>
+      <point x="337" y="303" type="line"/>
+      <point x="115" y="511" type="line"/>
+      <point x="115" y="595" type="line"/>
+      <point x="373" y="595" type="line"/>
+      <point x="373" y="649" type="line"/>
+      <point x="-24" y="649" type="line"/>
+      <point x="-24" y="595" type="line"/>
+      <point x="53" y="595" type="line"/>
+      <point x="53" y="248" type="line" smooth="yes"/>
+      <point x="53" y="168"/>
+      <point x="100" y="115"/>
+      <point x="208" y="115" type="curve" smooth="yes"/>
+      <point x="302" y="115"/>
+      <point x="340" y="163"/>
+      <point x="355" y="231" type="curve"/>
+    </contour>
+    <contour>
+      <point x="209" y="171" type="curve" smooth="yes"/>
+      <point x="135" y="171"/>
+      <point x="115" y="206"/>
+      <point x="115" y="249" type="curve" smooth="yes"/>
+      <point x="115" y="449" type="line"/>
+      <point x="303" y="273" type="line"/>
+      <point x="303" y="247" type="line" smooth="yes"/>
+      <point x="302" y="205"/>
+      <point x="268" y="171"/>
+    </contour>
+    <component base="dvSSA" xOffset="250"/>
+  </outline>
+</glyph>

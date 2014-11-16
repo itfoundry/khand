@@ -1,0 +1,17 @@
+# Created: Sun Nov 16 23:07:43 2014
+# PS Name: Khand-Bold
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.bindu_n58_660 = [dvmEcandra dvAnusvara dvCandrabindu];
+@mGC_abvm.e_n58_660 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_0_660 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.u_n58_0 = [dvmU dvmUU dvmvR dvmvRR];
+
+markClass @mGC_abvm.bindu_n58_660 <anchor -58 660> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n58_660 <anchor -58 660> @MC_abvm.e;
+markClass @mGC_abvm.i_0_660 <anchor 0 660> @MC_abvm.i;
+markClass @mGC_blwm.u_n58_0 <anchor -58 0> @MC_blwm.u;
+markClass dvVirama <anchor -58 0> @MC_blwm.virama;
+markClass dvmAI_Anusvara <anchor -55 660> @MC_abvm.e;
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmI" format="1">
+  <advance width="213"/>
+  <unicode hex="093F"/>
+  <outline>
+    <contour>
+      <point x="65" y="655" type="line"/>
+      <point x="-28" y="655" type="line"/>
+      <point x="-28" y="583" type="line"/>
+      <point x="64" y="583" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="149" y="583" type="line"/>
+      <point x="241" y="583" type="line"/>
+      <point x="241" y="655" type="line"/>
+      <point x="150" y="655" type="line"/>
+      <point x="150" y="687" type="line"/>
+      <point x="150" y="769"/>
+      <point x="191" y="807"/>
+      <point x="304" y="807" type="curve"/>
+      <point x="440" y="807"/>
+      <point x="566" y="755"/>
+      <point x="566" y="755" type="curve"/>
+      <point x="566" y="832" type="line"/>
+      <point x="566" y="832"/>
+      <point x="453" y="886"/>
+      <point x="300" y="886" type="curve"/>
+      <point x="160" y="886"/>
+      <point x="65" y="834"/>
+      <point x="65" y="689" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+# Created: Sun Nov 16 23:07:08 2014
+# PS Name: Khand-Regular
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.bindu_n69_652 = [dvmEcandra dvAnusvara dvCandrabindu];
+@mGC_abvm.e_n69_652 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_0_652 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.u_n69_0 = [dvmU dvmUU dvmvR dvmvRR];
+
+markClass @mGC_abvm.bindu_n69_652 <anchor -69 652> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n69_652 <anchor -69 652> @MC_abvm.e;
+markClass @mGC_abvm.i_0_652 <anchor 0 652> @MC_abvm.i;
+markClass @mGC_blwm.u_n69_0 <anchor -69 0> @MC_blwm.u;
+markClass dvVirama <anchor -69 0> @MC_blwm.virama;
+markClass dvmAI_Anusvara <anchor -65 652> @MC_abvm.e;
+markClass dvmE_Anusvara <anchor -70 652> @MC_abvm.e;
+

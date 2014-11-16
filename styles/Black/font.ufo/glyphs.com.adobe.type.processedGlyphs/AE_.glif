@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="AE">
+  <advance width="725" />
+  <unicode hex="00C6" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="247" y="287" />
+      <point type="line" x="355" y="589" />
+      <point type="line" x="355" y="287" />
+    </contour>
+    <contour>
+      <point type="line" x="696" y="563" />
+      <point type="line" x="696" y="693" />
+      <point type="line" x="266" y="693" />
+      <point type="line" x="0" y="0" />
+      <point type="line" x="145" y="0" />
+      <point type="line" x="202" y="160" />
+      <point type="line" x="355" y="160" />
+      <point type="line" x="355" y="0" />
+      <point type="line" x="696" y="0" />
+      <point type="line" x="696" y="130" />
+      <point type="line" x="495" y="130" />
+      <point type="line" x="495" y="286" />
+      <point type="line" x="669" y="286" />
+      <point type="line" x="669" y="416" />
+      <point type="line" x="495" y="416" />
+      <point type="line" x="495" y="563" />
+    </contour>
+  </outline>
+</glyph>

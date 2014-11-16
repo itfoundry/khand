@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="less">
+  <advance width="497" />
+  <unicode hex="003C" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="442" y="534" />
+      <point type="line" x="36" y="387" />
+      <point type="line" x="36" y="273" />
+      <point type="line" x="442" y="126" />
+      <point type="line" x="442" y="240" />
+      <point type="line" x="160" y="330" />
+      <point type="line" x="442" y="420" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvJxA" format="1">
+  <advance width="555"/>
+  <unicode hex="095B"/>
+  <outline>
+    <contour>
+      <point x="-4" y="-49" type="curve" smooth="yes"/>
+      <point x="-4" y="-75"/>
+      <point x="7" y="-94"/>
+      <point x="41" y="-94" type="curve" smooth="yes"/>
+      <point x="75" y="-94"/>
+      <point x="86" y="-75"/>
+      <point x="86" y="-49" type="curve" smooth="yes"/>
+      <point x="86" y="-23"/>
+      <point x="75" y="-4"/>
+      <point x="41" y="-4" type="curve" smooth="yes"/>
+      <point x="7" y="-4"/>
+      <point x="-4" y="-23"/>
+    </contour>
+    <component base="dvJA"/>
+  </outline>
+</glyph>

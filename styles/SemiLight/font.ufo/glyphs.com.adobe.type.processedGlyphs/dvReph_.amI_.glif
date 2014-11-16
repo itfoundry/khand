@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvReph.amI">
+  <advance width="0" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="0" y="674" />
+      <point type="line" x="0" y="724" />
+      <point x="0" y="784" />
+      <point x="40" y="801" />
+      <point type="curve" x="91" y="801" />
+      <point type="line" x="101" y="801" />
+      <point type="line" x="101" y="857" />
+      <point type="line" x="87" y="857" />
+      <point x="10" y="857" />
+      <point x="-43" y="825" />
+      <point type="curve" x="-43" y="734" />
+      <point type="line" x="-43" y="674" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_BH_RA" format="1">
+  <advance width="1030"/>
+  <outline>
+    <contour>
+      <point x="239" y="204" type="line"/>
+      <point x="239" y="176"/>
+      <point x="231" y="158"/>
+      <point x="190" y="158" type="curve" smooth="yes"/>
+      <point x="148" y="158"/>
+      <point x="141" y="176"/>
+      <point x="141" y="204" type="curve" smooth="yes"/>
+      <point x="141" y="295" type="line" smooth="yes"/>
+      <point x="141" y="323"/>
+      <point x="148" y="341"/>
+      <point x="190" y="341" type="curve" smooth="yes"/>
+      <point x="239" y="341" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="339" type="line"/>
+      <point x="513" y="413"/>
+      <point x="468" y="441"/>
+      <point x="381" y="441" type="curve" smooth="yes"/>
+      <point x="352" y="441" type="line"/>
+      <point x="352" y="566" type="line"/>
+      <point x="392" y="566" type="line"/>
+      <point x="392" y="665" type="line"/>
+      <point x="-35" y="665" type="line"/>
+      <point x="-35" y="566" type="line"/>
+      <point x="239" y="566" type="line"/>
+      <point x="239" y="441" type="line"/>
+      <point x="190" y="441" type="line" smooth="yes"/>
+      <point x="74" y="441"/>
+      <point x="27" y="388"/>
+      <point x="27" y="299" type="curve" smooth="yes"/>
+      <point x="27" y="200" type="line" smooth="yes"/>
+      <point x="27" y="112"/>
+      <point x="74" y="57"/>
+      <point x="190" y="57" type="curve" smooth="yes"/>
+      <point x="305" y="57"/>
+      <point x="352" y="112"/>
+      <point x="352" y="200" type="curve" smooth="yes"/>
+      <point x="352" y="341" type="line"/>
+      <point x="376" y="341" type="line" smooth="yes"/>
+      <point x="434" y="341"/>
+      <point x="437" y="327"/>
+      <point x="437" y="284" type="curve"/>
+    </contour>
+    <component base="dvBH_RA" xOffset="397"/>
+  </outline>
+</glyph>

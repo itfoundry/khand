@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAA" format="1">
+  <advance width="804"/>
+  <unicode hex="0906"/>
+  <outline>
+    <component base="dvA" xOffset="17"/>
+    <component base="dvmAA" xOffset="592"/>
+  </outline>
+</glyph>

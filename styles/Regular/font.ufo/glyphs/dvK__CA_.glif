@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvK_CA" format="1">
+  <advance width="907"/>
+  <outline>
+    <contour>
+      <point x="602" y="198" type="line"/>
+      <point x="602" y="150"/>
+      <point x="625" y="126"/>
+      <point x="686" y="126" type="curve"/>
+      <point x="717" y="126"/>
+      <point x="739" y="130"/>
+      <point x="766" y="139" type="curve"/>
+      <point x="766" y="590" type="line"/>
+      <point x="402" y="590" type="line"/>
+      <point x="402" y="652" type="line"/>
+      <point x="933" y="652" type="line"/>
+      <point x="933" y="590" type="line"/>
+      <point x="838" y="590" type="line"/>
+      <point x="838" y="0" type="line"/>
+      <point x="766" y="0" type="line"/>
+      <point x="766" y="74" type="line"/>
+      <point x="742" y="66"/>
+      <point x="713" y="61"/>
+      <point x="679" y="61" type="curve"/>
+      <point x="575" y="61"/>
+      <point x="529" y="110"/>
+      <point x="529" y="196" type="curve"/>
+      <point x="529" y="262" type="line"/>
+      <point x="529" y="315"/>
+      <point x="538" y="344"/>
+      <point x="538" y="344" type="curve"/>
+      <point x="472" y="344" type="line"/>
+      <point x="472" y="408" type="line"/>
+      <point x="713" y="408" type="line"/>
+      <point x="713" y="345" type="line"/>
+      <point x="612" y="345" type="line"/>
+      <point x="612" y="345"/>
+      <point x="602" y="318"/>
+      <point x="602" y="262" type="curve"/>
+    </contour>
+    <component base="dvK"/>
+  </outline>
+</glyph>

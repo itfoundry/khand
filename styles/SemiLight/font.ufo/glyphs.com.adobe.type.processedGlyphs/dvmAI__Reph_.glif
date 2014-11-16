@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvmAI_Reph">
+  <advance width="0" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-410" y="822" />
+      <point x="-402" y="823" />
+      <point x="-393" y="824" />
+      <point type="curve" x="-384" y="824" />
+      <point x="-354" y="824" />
+      <point x="-335" y="812" />
+      <point type="curve" x="-317" y="784" />
+      <point type="line" x="-228" y="649" />
+      <point type="line" x="-167" y="649" />
+      <point type="line" x="-274" y="812" />
+      <point x="-305" y="858" />
+      <point x="-331" y="878" />
+      <point type="curve" x="-380" y="878" />
+      <point x="-392" y="878" />
+      <point x="-402" y="877" />
+      <point type="curve" x="-410" y="876" />
+    </contour>
+    <contour>
+      <point type="line" x="-7" y="879" />
+      <point x="-85" y="879" />
+      <point x="-123" y="838" />
+      <point type="curve" x="-123" y="764" />
+      <point type="line" x="-123" y="761" />
+      <point type="line" x="-138" y="804" />
+      <point x="-156" y="857" />
+      <point x="-176" y="878" />
+      <point type="curve" x="-222" y="878" />
+      <point x="-233" y="878" />
+      <point x="-243" y="877" />
+      <point type="curve" x="-250" y="876" />
+      <point type="line" x="-250" y="822" />
+      <point x="-244" y="823" />
+      <point x="-235" y="824" />
+      <point type="curve" x="-227" y="824" />
+      <point x="-201" y="824" />
+      <point x="-192" y="805" />
+      <point type="curve" x="-180" y="776" />
+      <point type="line" x="-130" y="649" />
+      <point type="line" x="-73" y="649" />
+      <point x="-73" y="649" />
+      <point x="-84" y="692" />
+      <point type="curve" x="-84" y="746" />
+      <point x="-84" y="801" />
+      <point x="-54" y="823" />
+      <point type="curve" x="-2" y="823" />
+      <point type="line" x="6" y="823" />
+      <point type="line" x="6" y="879" />
+    </contour>
+  </outline>
+</glyph>

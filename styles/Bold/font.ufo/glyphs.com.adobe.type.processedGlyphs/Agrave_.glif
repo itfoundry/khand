@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Agrave">
+  <advance width="462" />
+  <unicode hex="00C0" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="258" y="722" />
+      <point type="line" x="217" y="833" />
+      <point type="line" x="130" y="833" />
+      <point type="line" x="197" y="722" />
+    </contour>
+    <contour>
+      <point type="line" x="168" y="267" />
+      <point type="line" x="229" y="583" />
+      <point type="line" x="292" y="267" />
+    </contour>
+    <contour>
+      <point type="line" x="346" y="0" />
+      <point type="line" x="450" y="0" />
+      <point type="line" x="307" y="682" />
+      <point type="line" x="156" y="682" />
+      <point type="line" x="11" y="0" />
+      <point type="line" x="116" y="0" />
+      <point type="line" x="150" y="175" />
+      <point type="line" x="311" y="175" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Rcaron">
+  <advance width="450" />
+  <unicode hex="0158" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="200" y="708" />
+      <point type="line" x="246" y="708" />
+      <point type="line" x="294" y="813" />
+      <point type="line" x="258" y="813" />
+      <point type="line" x="223" y="745" />
+      <point type="line" x="188" y="813" />
+      <point type="line" x="152" y="813" />
+    </contour>
+    <contour>
+      <point type="line" x="125" y="322" />
+      <point type="line" x="125" y="621" />
+      <point type="line" x="222" y="621" />
+      <point x="301" y="621" />
+      <point x="331" y="580" />
+      <point type="curve" x="331" y="516" />
+      <point type="line" x="331" y="425" />
+      <point x="331" y="361" />
+      <point x="301" y="322" />
+      <point type="curve" x="222" y="322" />
+    </contour>
+    <contour>
+      <point type="line" x="400" y="0" />
+      <point type="line" x="295" y="287" />
+      <point x="354" y="309" />
+      <point x="381" y="361" />
+      <point type="curve" x="381" y="425" />
+      <point type="line" x="381" y="516" />
+      <point x="381" y="602" />
+      <point x="332" y="666" />
+      <point type="curve" x="222" y="666" />
+      <point type="line" x="75" y="666" />
+      <point type="line" x="75" y="0" />
+      <point type="line" x="125" y="0" />
+      <point type="line" x="125" y="275" />
+      <point type="line" x="222" y="275" />
+      <point x="230" y="275" />
+      <point x="238" y="275" />
+      <point type="curve" x="246" y="276" />
+      <point type="line" x="345" y="0" />
+    </contour>
+  </outline>
+</glyph>

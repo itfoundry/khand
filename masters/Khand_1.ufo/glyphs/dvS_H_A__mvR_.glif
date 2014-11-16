@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSHA_mvR" format="1">
+  <advance width="633"/>
+  <outline>
+    <contour>
+      <point x="235" y="249" type="line"/>
+      <point x="494" y="55" type="line"/>
+      <point x="555" y="135" type="line"/>
+      <point x="555" y="135"/>
+      <point x="459" y="237"/>
+      <point x="367" y="306" type="curve" smooth="yes"/>
+      <point x="322" y="339" type="line"/>
+      <point x="370" y="389"/>
+      <point x="386" y="418"/>
+      <point x="386" y="485" type="curve" smooth="yes"/>
+      <point x="386" y="517" type="line" smooth="yes"/>
+      <point x="386" y="620"/>
+      <point x="337" y="676"/>
+      <point x="219" y="676" type="curve" smooth="yes"/>
+      <point x="101" y="676"/>
+      <point x="48" y="620"/>
+      <point x="48" y="517" type="curve" smooth="yes"/>
+      <point x="48" y="485" type="line" smooth="yes"/>
+      <point x="48" y="413"/>
+      <point x="64" y="377"/>
+      <point x="135" y="324" type="curve"/>
+      <point x="1" y="185" type="line"/>
+      <point x="153" y="163" type="line"/>
+    </contour>
+    <contour>
+      <point x="254" y="475" type="line"/>
+      <point x="254" y="446"/>
+      <point x="239" y="435"/>
+      <point x="219" y="418" type="curve"/>
+      <point x="198" y="435"/>
+      <point x="184" y="446"/>
+      <point x="184" y="475" type="curve" smooth="yes"/>
+      <point x="184" y="516" type="line" smooth="yes"/>
+      <point x="184" y="539"/>
+      <point x="187" y="556"/>
+      <point x="219" y="556" type="curve" smooth="yes"/>
+      <point x="251" y="556"/>
+      <point x="254" y="539"/>
+      <point x="254" y="516" type="curve"/>
+    </contour>
+    <contour>
+      <point x="451" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+      <point x="591" y="554" type="line"/>
+      <point x="673" y="554" type="line"/>
+      <point x="673" y="671" type="line"/>
+      <point x="451" y="671" type="line"/>
+    </contour>
+    <component base="dvmvR" xOffset="633" yOffset="20"/>
+  </outline>
+</glyph>

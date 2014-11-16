@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Racute">
+  <advance width="469" />
+  <unicode hex="0154" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="323" y="833" />
+      <point type="line" x="236" y="833" />
+      <point type="line" x="195" y="722" />
+      <point type="line" x="256" y="722" />
+    </contour>
+    <contour>
+      <point type="line" x="166" y="589" />
+      <point type="line" x="241" y="589" />
+      <point x="289" y="589" />
+      <point x="310" y="567" />
+      <point type="curve" x="310" y="522" />
+      <point type="line" x="310" y="419" />
+      <point x="310" y="372" />
+      <point x="291" y="349" />
+      <point type="curve" x="241" y="349" />
+      <point type="line" x="166" y="349" />
+    </contour>
+    <contour>
+      <point type="line" x="442" y="0" />
+      <point type="line" x="334" y="273" />
+      <point x="392" y="294" />
+      <point x="418" y="345" />
+      <point type="curve" x="418" y="417" />
+      <point type="line" x="418" y="530" />
+      <point x="418" y="626" />
+      <point x="358" y="682" />
+      <point type="curve" x="250" y="682" />
+      <point type="line" x="58" y="682" />
+      <point type="line" x="58" y="0" />
+      <point type="line" x="166" y="0" />
+      <point type="line" x="166" y="261" />
+      <point type="line" x="227" y="261" />
+      <point type="line" x="323" y="0" />
+    </contour>
+  </outline>
+</glyph>

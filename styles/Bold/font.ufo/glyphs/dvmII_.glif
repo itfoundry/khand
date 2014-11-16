@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmII" format="1">
+  <advance width="216"/>
+  <unicode hex="0940"/>
+  <outline>
+    <contour>
+      <point x="58" y="660" type="line"/>
+      <point x="-32" y="660" type="line"/>
+      <point x="-32" y="575" type="line"/>
+      <point x="58" y="575" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="575" type="line"/>
+      <point x="248" y="575" type="line"/>
+      <point x="248" y="660" type="line"/>
+      <point x="158" y="660" type="line"/>
+      <point x="158" y="751" type="line" smooth="yes"/>
+      <point x="158" y="848"/>
+      <point x="101" y="892"/>
+      <point x="2" y="892" type="curve" smooth="yes"/>
+      <point x="-96" y="892"/>
+      <point x="-154" y="848"/>
+      <point x="-154" y="751" type="curve" smooth="yes"/>
+      <point x="-154" y="719" type="line"/>
+      <point x="-55" y="719" type="line"/>
+      <point x="-55" y="749" type="line" smooth="yes"/>
+      <point x="-55" y="783"/>
+      <point x="-41" y="801"/>
+      <point x="2" y="801" type="curve" smooth="yes"/>
+      <point x="44" y="801"/>
+      <point x="58" y="783"/>
+      <point x="58" y="749" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
