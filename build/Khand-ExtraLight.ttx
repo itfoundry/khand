@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Khand-ExtraLight.GlyphOrder.ttx"/>
+  <head src="Khand-ExtraLight._h_e_a_d.ttx"/>
+  <hhea src="Khand-ExtraLight._h_h_e_a.ttx"/>
+  <maxp src="Khand-ExtraLight._m_a_x_p.ttx"/>
+  <OS_2 src="Khand-ExtraLight.O_S_2f_2.ttx"/>
+  <name src="Khand-ExtraLight._n_a_m_e.ttx"/>
+  <cmap src="Khand-ExtraLight._c_m_a_p.ttx"/>
+  <post src="Khand-ExtraLight._p_o_s_t.ttx"/>
+  <CFF src="Khand-ExtraLight.C_F_F_.ttx"/>
+  <GDEF src="Khand-ExtraLight.G_D_E_F_.ttx"/>
+  <GPOS src="Khand-ExtraLight.G_P_O_S_.ttx"/>
+  <GSUB src="Khand-ExtraLight.G_S_U_B_.ttx"/>
+  <hmtx src="Khand-ExtraLight._h_m_t_x.ttx"/>
+</ttFont>
