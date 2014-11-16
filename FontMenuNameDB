@@ -10,34 +10,52 @@
 #   l=  Compatible Family Menu Name
 #   m=1,Macintosh Compatible Full Name
 
-[SomeDevanagari-Light]
-  f=  Some Devanagari
+[Khand-ExtraLight]
+  f=  Khand
+  s=  ExtraLight
+  l=  Khand ExtraLight
+  m=1,Khand ExtraLight
+
+[Khand-Light]
+  f=  Khand
   s=  Light
-  l=  Some Devanagari Light
-  m=1,Some Devanagari Light
+  l=  Khand Light
+  m=1,Khand Light
 
-[SomeDevanagari-Regular]
-  f=  Some Devanagari
+[Khand-SemiLight]
+  f=  Khand
+  s=  SemiLight
+  l=  Khand SemiLight
+  m=1,Khand SemiLight
+
+[Khand-Regular]
+  f=  Khand
   s=  Regular
-  l=  Some Devanagari
-  m=1,Some Devanagari
+  l=  Khand
+  m=1,Khand
 
-[SomeDevanagari-Medium]
-  f=  Some Devanagari
-  s=  Medium
-  l=  Some Devanagari Medium
-  m=1,Some Devanagari Medium
-
-[SomeDevanagari-SemiBold]
-  f=  Some Devanagari
+[Khand-SemiBold]
+  f=  Khand
   s=  SemiBold
-  l=  Some Devanagari SemiBold
-  m=1,Some Devanagari SemiBold
+  l=  Khand SemiBold
+  m=1,Khand SemiBold
 
-[SomeDevanagari-Bold]
-  f=  Some Devanagari
+[Khand-Bold]
+  f=  Khand
   s=  Bold
-  l=  Some Devanagari
-  m=1,Some Devanagari Bold
+  l=  Khand
+  m=1,Khand Bold
 # Style-linked because of `l` (the same as Regular's)
 #   and `styles/Bold/fontinfo` (`IsBoldStyle true`).
+
+[Khand-ExtraBold]
+  f=  Khand
+  s=  ExtraBold
+  l=  Khand ExtraBold
+  m=1,Khand ExtraBold
+
+[Khand-Black]
+  f=  Khand
+  s=  Black
+  l=  Khand Black
+  m=1,Khand Black
