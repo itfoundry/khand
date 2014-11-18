@@ -1,6 +1,6 @@
 #!opentype
 
-IsBoldStyle   true
+IsBoldStyle   false
 IsItalicStyle false
 
 PreferOS/2TypoMetrics      true
