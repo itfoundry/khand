@@ -1,4 +1,4 @@
-# Created: Sun Nov 16 23:07:26 2014
+# Created: Tue Nov 18 16:07:34 2014
 # PS Name: Khand-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -32,6 +32,7 @@ lookup MARK_BASE_blwm.u {
 	pos base dvDDHA <anchor 250 -59> mark @MC_blwm.u;
 	pos base dvDDH_DDHA <anchor 262 -334> mark @MC_blwm.u;
 	pos base dvDDH_RA <anchor 258 -163> mark @MC_blwm.u;
+	pos base dvDDH_VA <anchor 358 -201> mark @MC_blwm.u;
 	pos base dvDDHxA <anchor 255 -219> mark @MC_blwm.u;
 	pos base dvDD_DDA <anchor 251 -332> mark @MC_blwm.u;
 	pos base dvDD_DDHA <anchor 251 -329> mark @MC_blwm.u;
@@ -116,6 +117,7 @@ lookup MARK_BASE_blwm.u {
 	pos base dvTTHA <anchor 247 -59> mark @MC_blwm.u;
 	pos base dvTTH_RA <anchor 254 -163> mark @MC_blwm.u;
 	pos base dvTTH_TTHA <anchor 267 -207> mark @MC_blwm.u;
+	pos base dvTTH_VA <anchor 363 -171> mark @MC_blwm.u;
 	pos base dvTT_TTA <anchor 252 -319> mark @MC_blwm.u;
 	pos base dvTT_TTHA <anchor 254 -212> mark @MC_blwm.u;
 	pos base dvTT_VA <anchor 360 -171> mark @MC_blwm.u;
@@ -152,6 +154,7 @@ lookup MARK_BASE_blwm.virama {
 	pos base dvDDHA <anchor 252 -5> mark @MC_blwm.virama;
 	pos base dvDDH_DDHA <anchor 271 -285> mark @MC_blwm.virama;
 	pos base dvDDH_RA <anchor 261 -131> mark @MC_blwm.virama;
+	pos base dvDDH_VA <anchor 358 -201> mark @MC_blwm.virama;
 	pos base dvDDHxA <anchor 258 -179> mark @MC_blwm.virama;
 	pos base dvDD_DDA <anchor 265 -289> mark @MC_blwm.virama;
 	pos base dvDD_DDHA <anchor 261 -282> mark @MC_blwm.virama;
@@ -233,6 +236,7 @@ lookup MARK_BASE_blwm.virama {
 	pos base dvTTHA <anchor 249 -5> mark @MC_blwm.virama;
 	pos base dvTTH_RA <anchor 250 -131> mark @MC_blwm.virama;
 	pos base dvTTH_TTHA <anchor 266 -155> mark @MC_blwm.virama;
+	pos base dvTTH_VA <anchor 363 -171> mark @MC_blwm.virama;
 	pos base dvTT_RA <anchor 256 -131> mark @MC_blwm.virama;
 	pos base dvTT_TTA <anchor 255 -263> mark @MC_blwm.virama;
 	pos base dvTT_TTHA <anchor 259 -152> mark @MC_blwm.virama;

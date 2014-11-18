@@ -4,9 +4,6 @@
   <unicode hex="0947"/>
   <outline>
     <contour>
-      <point x="-73" y="649" type="move" name="_abvm.e"/>
-    </contour>
-    <contour>
       <point x="-318" y="822" type="line"/>
       <point x="-311" y="823"/>
       <point x="-301" y="824"/>

@@ -7,32 +7,32 @@
       <point x="-58" y="0" type="move" name="_blwm.u"/>
     </contour>
     <contour>
-      <point x="-150" y="-74" type="curve"/>
-      <point x="-104" y="-74"/>
-      <point x="-59" y="-83"/>
-      <point x="-59" y="-83" type="curve"/>
-      <point x="-59" y="8" type="line"/>
-      <point x="-59" y="8"/>
-      <point x="-108" y="17"/>
-      <point x="-150" y="17" type="curve"/>
-      <point x="-253" y="17"/>
-      <point x="-310" y="-28"/>
-      <point x="-310" y="-130" type="curve" smooth="yes"/>
-      <point x="-310" y="-233"/>
-      <point x="-253" y="-280"/>
-      <point x="-150" y="-280" type="curve"/>
-      <point x="-99" y="-280"/>
-      <point x="-57" y="-271"/>
-      <point x="-57" y="-271" type="curve"/>
-      <point x="-57" y="-180" type="line"/>
-      <point x="-57" y="-180"/>
-      <point x="-103" y="-189"/>
-      <point x="-149" y="-189" type="curve"/>
-      <point x="-185" y="-189"/>
-      <point x="-212" y="-181"/>
-      <point x="-212" y="-130" type="curve" smooth="yes"/>
-      <point x="-212" y="-81"/>
-      <point x="-185" y="-74"/>
+      <point x="-150" y="-68" type="curve"/>
+      <point x="-104" y="-68"/>
+      <point x="-59" y="-77"/>
+      <point x="-59" y="-77" type="curve"/>
+      <point x="-59" y="14" type="line"/>
+      <point x="-59" y="14"/>
+      <point x="-108" y="23"/>
+      <point x="-150" y="23" type="curve"/>
+      <point x="-253" y="23"/>
+      <point x="-310" y="-22"/>
+      <point x="-310" y="-125" type="curve" smooth="yes"/>
+      <point x="-310" y="-227"/>
+      <point x="-253" y="-275"/>
+      <point x="-150" y="-275" type="curve"/>
+      <point x="-99" y="-275"/>
+      <point x="-57" y="-265"/>
+      <point x="-57" y="-265" type="curve"/>
+      <point x="-57" y="-175" type="line"/>
+      <point x="-57" y="-175"/>
+      <point x="-103" y="-184"/>
+      <point x="-149" y="-184" type="curve"/>
+      <point x="-185" y="-184"/>
+      <point x="-212" y="-175"/>
+      <point x="-212" y="-125" type="curve" smooth="yes"/>
+      <point x="-212" y="-75"/>
+      <point x="-185" y="-68"/>
     </contour>
   </outline>
 </glyph>

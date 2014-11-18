@@ -1,12 +1,12 @@
-# Created: Sun Nov 16 23:08:00 2014
+# Created: Tue Nov 18 16:08:10 2014
 # PS Name: Khand-ExtraBold
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm.bindu_n51_665 = [dvmEcandra dvAnusvara dvCandrabindu];
-@mGC_abvm.e_n51_665 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.bindu_n51_665 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
+@mGC_abvm.e_n51_665 = [dvmAI dvReph dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_665 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
-@mGC_blwm.u_n51_0 = [dvmU dvmUU dvmvR dvmvRR];
+@mGC_blwm.u_n51_0 = [dvmU dvmUU dvmvR dvmvRR dvmvL dvmvLL];
 
 markClass @mGC_abvm.bindu_n51_665 <anchor -51 665> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n51_665 <anchor -51 665> @MC_abvm.e;

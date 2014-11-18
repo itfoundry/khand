@@ -1,12 +1,12 @@
-# Created: Sun Nov 16 23:06:51 2014
+# Created: Tue Nov 18 16:06:57 2014
 # PS Name: Khand-SemiLight
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm.bindu_n73_649 = [dvmEcandra dvAnusvara dvCandrabindu];
-@mGC_abvm.e_n73_649 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.bindu_n73_649 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
+@mGC_abvm.e_n73_649 = [dvmAI dvReph dvReph_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_649 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
-@mGC_blwm.u_n73_0 = [dvmU dvmUU dvmvR dvmvRR];
+@mGC_blwm.u_n73_0 = [dvmU dvmUU dvmvR dvmvRR dvmvL dvmvLL];
 
 markClass @mGC_abvm.bindu_n73_649 <anchor -73 649> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n73_649 <anchor -73 649> @MC_abvm.e;

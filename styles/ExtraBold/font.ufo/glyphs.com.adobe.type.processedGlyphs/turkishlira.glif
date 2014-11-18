@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="turkishlira">
+  <advance width="546" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="374" y="359" />
+      <point type="line" x="374" y="158" />
+      <point x="374" y="130" />
+      <point x="361" y="115" />
+      <point type="curve" x="331" y="115" />
+      <point type="line" x="200" y="115" />
+      <point type="line" x="200" y="335" />
+      <point type="line" x="331" y="361" />
+      <point type="line" x="331" y="446" />
+      <point type="line" x="200" y="420" />
+      <point type="line" x="200" y="472" />
+      <point type="line" x="331" y="498" />
+      <point type="line" x="331" y="583" />
+      <point type="line" x="200" y="557" />
+      <point type="line" x="200" y="687" />
+      <point type="line" x="71" y="687" />
+      <point type="line" x="71" y="531" />
+      <point type="line" x="19" y="520" />
+      <point type="line" x="19" y="436" />
+      <point type="line" x="71" y="446" />
+      <point type="line" x="71" y="394" />
+      <point type="line" x="19" y="384" />
+      <point type="line" x="19" y="299" />
+      <point type="line" x="71" y="309" />
+      <point type="line" x="71" y="0" />
+      <point type="line" x="371" y="0" />
+      <point x="458" y="0" />
+      <point x="504" y="48" />
+      <point type="curve" x="504" y="135" />
+      <point type="line" x="504" y="359" />
+    </contour>
+  </outline>
+</glyph>

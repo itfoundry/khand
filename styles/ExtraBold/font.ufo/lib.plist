@@ -2062,6 +2062,25 @@
 		<string>zerowidthnonjoiner</string>
 		<string>apostrophemod</string>
 		<string>zerowidthspace</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
+		<string>rupee</string>
+		<string>dvL_RA</string>
+		<string>dvSS_RA</string>
+		<string>dvLL_RA</string>
+		<string>dvNG_R</string>
+		<string>dvCH_R</string>
+		<string>dvL_R</string>
+		<string>dvSH_R</string>
+		<string>dvSS_R</string>
+		<string>dvH_R</string>
+		<string>dvLL_R</string>
+		<string>dvTTH_VA</string>
+		<string>dvDDH_VA</string>
+		<string>dvmEcandra_Anusvara</string>
+		<string>dvmOcandra_Anusvara</string>
+		<string>turkishlira</string>
+		<string>ruble</string>
 	</array>
 </dict>
 </plist>

@@ -1,12 +1,12 @@
-# Created: Sun Nov 16 23:07:26 2014
+# Created: Tue Nov 18 16:07:34 2014
 # PS Name: Khand-SemiBold
 # MM Inst: None
 # exported from noApp
 
-@mGC_abvm.bindu_n64_655 = [dvmEcandra dvAnusvara dvCandrabindu];
-@mGC_abvm.e_n64_655 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.bindu_n64_655 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
+@mGC_abvm.e_n64_655 = [dvmAI dvReph dvReph_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_655 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
-@mGC_blwm.u_n64_0 = [dvmU dvmUU dvmvR dvmvRR];
+@mGC_blwm.u_n64_0 = [dvmU dvmUU dvmvR dvmvRR dvmvL dvmvLL];
 
 markClass @mGC_abvm.bindu_n64_655 <anchor -64 655> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n64_655 <anchor -64 655> @MC_abvm.e;
