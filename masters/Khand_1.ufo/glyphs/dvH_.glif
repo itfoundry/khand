@@ -2,54 +2,7 @@
 <glyph name="dvH" format="1">
   <advance width="448"/>
   <outline>
-    <contour>
-      <point x="521" y="334" type="line"/>
-      <point x="206" y="334" type="line" smooth="yes"/>
-      <point x="186" y="334"/>
-      <point x="177" y="340"/>
-      <point x="177" y="357" type="curve" smooth="yes"/>
-      <point x="177" y="365" type="line" smooth="yes"/>
-      <point x="177" y="382"/>
-      <point x="186" y="388"/>
-      <point x="206" y="388" type="curve" smooth="yes"/>
-      <point x="393" y="388" type="line"/>
-      <point x="393" y="554" type="line"/>
-      <point x="521" y="554" type="line"/>
-      <point x="521" y="671" type="line"/>
-      <point x="-40" y="671" type="line"/>
-      <point x="-40" y="554" type="line"/>
-      <point x="253" y="554" type="line"/>
-      <point x="253" y="508" type="line"/>
-      <point x="206" y="508" type="line" smooth="yes"/>
-      <point x="93" y="508"/>
-      <point x="37" y="473"/>
-      <point x="37" y="377" type="curve" smooth="yes"/>
-      <point x="37" y="359" type="line" smooth="yes"/>
-      <point x="38" y="315"/>
-      <point x="54" y="288"/>
-      <point x="81" y="272" type="curve"/>
-      <point x="53" y="253"/>
-      <point x="38" y="223"/>
-      <point x="38" y="175" type="curve" smooth="yes"/>
-      <point x="38" y="151" type="line" smooth="yes"/>
-      <point x="38" y="50"/>
-      <point x="99" y="-7"/>
-      <point x="234" y="-7" type="curve" smooth="yes"/>
-      <point x="301" y="-7"/>
-      <point x="356" y="-1"/>
-      <point x="403" y="10" type="curve"/>
-      <point x="403" y="128" type="line"/>
-      <point x="355" y="118"/>
-      <point x="315" y="114"/>
-      <point x="244" y="114" type="curve" smooth="yes"/>
-      <point x="198" y="114"/>
-      <point x="178" y="127"/>
-      <point x="178" y="160" type="curve" smooth="yes"/>
-      <point x="178" y="180" type="line" smooth="yes"/>
-      <point x="178" y="203"/>
-      <point x="184" y="219"/>
-      <point x="217" y="219" type="curve" smooth="yes"/>
-      <point x="521" y="219" type="line"/>
-    </contour>
+    <component base="dvHA"/>
+    <component base="dvVirama" xOffset="360"/>
   </outline>
 </glyph>

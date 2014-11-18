@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSS_R" format="1">
+  <advance width="280"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="358" y="194" type="line"/>
+      <point x="205" y="194" type="line"/>
+    </contour>
+    <component base="dvSS"/>
+  </outline>
+</glyph>
