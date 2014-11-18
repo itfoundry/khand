@@ -4,15 +4,15 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="1.29999"/>
-    <checkSumAdjustment value="0xead9c808"/>
+    <fontRevision value="1.4"/>
+    <checkSumAdjustment value="0xf21e0786"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="1000"/>
-    <created value="Sun Nov 16 23:16:20 2014"/>
-    <modified value="Sun Nov 16 23:16:20 2014"/>
-    <xMin value="-403"/>
-    <yMin value="-379"/>
+    <created value="Tue Nov 18 16:23:09 2014"/>
+    <modified value="Tue Nov 18 16:23:09 2014"/>
+    <xMin value="-476"/>
+    <yMin value="-587"/>
     <xMax value="1742"/>
     <yMax value="892"/>
     <macStyle value="00000000 00000000"/>

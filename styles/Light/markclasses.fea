@@ -1,10 +1,10 @@
-# Created: Tue Nov 18 16:06:39 2014
+# Created: Tue Nov 18 16:20:59 2014
 # PS Name: Khand-Light
 # MM Inst: None
 # exported from noApp
 
 @mGC_abvm.bindu_n77_646 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
-@mGC_abvm.e_n77_646 = [dvmAI dvReph dvReph_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.e_n77_646 = [dvmE dvmAI dvReph dvReph_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.i_0_646 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.u_n77_0 = [dvmU dvmUU dvmvR dvmvRR dvmvL dvmvLL];
 

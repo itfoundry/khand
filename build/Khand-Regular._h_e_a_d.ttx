@@ -4,17 +4,17 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="1.29999"/>
-    <checkSumAdjustment value="0xd14492c8"/>
+    <fontRevision value="1.4"/>
+    <checkSumAdjustment value="0x59905ebb"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="1000"/>
-    <created value="Sun Nov 16 23:16:22 2014"/>
-    <modified value="Sun Nov 16 23:16:22 2014"/>
-    <xMin value="-420"/>
-    <yMin value="-402"/>
+    <created value="Tue Nov 18 16:23:11 2014"/>
+    <modified value="Tue Nov 18 16:23:11 2014"/>
+    <xMin value="-445"/>
+    <yMin value="-615"/>
     <xMax value="1771"/>
-    <yMax value="928"/>
+    <yMax value="930"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="3"/>
     <fontDirectionHint value="2"/>

@@ -7,7 +7,7 @@
     <descent value="-350"/>
     <lineGap value="100"/>
     <advanceWidthMax value="1723"/>
-    <minLeftSideBearing value="-444"/>
+    <minLeftSideBearing value="-460"/>
     <minRightSideBearing value="-1597"/>
     <xMaxExtent value="1813"/>
     <caretSlopeRise value="1"/>
@@ -18,7 +18,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="999"/>
+    <numberOfHMetrics value="1018"/>
   </hhea>
 
 </ttFont>
