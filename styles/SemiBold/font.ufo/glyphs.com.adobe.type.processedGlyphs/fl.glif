@@ -4,14 +4,7 @@
   <unicode hex="FB02" />
   <outline>
     <contour>
-      <point name="hintSet0000" type="line" x="386" y="727" />
-      <point x="349" y="737" />
-      <point x="305" y="743" />
-      <point type="curve" x="261" y="743" />
-      <point x="139" y="743" />
-      <point x="82" y="690" />
-      <point type="curve" x="82" y="596" />
-      <point type="line" x="82" y="574" />
+      <point name="hintSet0000" type="line" x="82" y="574" />
       <point type="line" x="25" y="574" />
       <point type="line" x="25" y="499" />
       <point type="line" x="82" y="499" />
@@ -25,12 +18,18 @@
       <point x="175" y="646" />
       <point x="199" y="669" />
       <point type="curve" x="267" y="669" />
-      <point x="287" y="669" />
-      <point x="307" y="667" />
+      <point x="286" y="669" />
+      <point x="306" y="667" />
       <point type="curve" x="326" y="665" />
       <point type="line" x="326" y="0" />
       <point type="line" x="417" y="0" />
-      <point type="line" x="417" y="727" />
+      <point type="line" x="417" y="720" />
+      <point x="377" y="733" />
+      <point x="314" y="743" />
+      <point type="curve" x="261" y="743" />
+      <point x="139" y="743" />
+      <point x="82" y="690" />
+      <point type="curve" x="82" y="596" />
     </contour>
   </outline>
 </glyph>
