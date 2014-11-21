@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Khand-Black.GlyphOrder.ttx"/>
+  <head src="Khand-Black._h_e_a_d.ttx"/>
+  <hhea src="Khand-Black._h_h_e_a.ttx"/>
+  <maxp src="Khand-Black._m_a_x_p.ttx"/>
+  <OS_2 src="Khand-Black.O_S_2f_2.ttx"/>
+  <name src="Khand-Black._n_a_m_e.ttx"/>
+  <cmap src="Khand-Black._c_m_a_p.ttx"/>
+  <post src="Khand-Black._p_o_s_t.ttx"/>
+  <CFF src="Khand-Black.C_F_F_.ttx"/>
+  <GDEF src="Khand-Black.G_D_E_F_.ttx"/>
+  <GPOS src="Khand-Black.G_P_O_S_.ttx"/>
+  <GSUB src="Khand-Black.G_S_U_B_.ttx"/>
+  <hmtx src="Khand-Black._h_m_t_x.ttx"/>
+</ttFont>
