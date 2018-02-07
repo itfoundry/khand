@@ -1,165 +1,61 @@
-#!/usr/bin/python
+#! /usr/bin/env AFDKOPython
+# encoding: UTF-8
+from __future__ import division, absolute_import, print_function, unicode_literals
 
-import argparse, sys, subprocess, os.path
-import WriteFeaturesMarkFDK
+import hindkit
 
-import itf
-from config import (
-    FAMILY_NAME, STYLE_NAMES, UFOIG_ARGS,
-    MATCH_mI_OFFSETS_DICT, MAKEOTF_ARGS, OUTPUT_DIR
-)
+STYLES_KHAND = [
+    ("ExtraLight",  0.0, 250),
+    ("Light",       7.6, 300),
+    ("SemiLight",  17.7, 350),
+    ("Regular",    28.5, 400),
+    ("SemiBold",   42.0, 600),
+    ("Bold",       58.0, 700),
+    ("ExtraBold",  77.0, 800),
+    ("Black",     100.0, 900),
+]
 
+def main():
 
-parser = argparse.ArgumentParser()
+    family = hindkit.Family(
+        trademark = "Khand",
+        script_name = "Devanagari",
+        append_script_name = False,
+        client_name = "Google Fonts",
+        initial_release_year = 2014,
+    )
 
-procedures = parser.add_argument_group(
-    title='build procedure triggers',
-    description='execute `python build.py -grimc` to run all the procedures.'
-)
+    i = family.info
+    i.openTypeNameDesigner = "Sanchit Sawaria and Jyotish Sonowal (Devanagari), Satya Rajpurohit (Latin)"
+    i.openTypeHheaAscender, i.openTypeHheaDescender, i.openTypeHheaLineGap = 1050, -350, 100
+    i.openTypeOS2TypoAscender, i.openTypeOS2TypoDescender, i.openTypeOS2TypoLineGap = 1050, -350, 100
+    i.openTypeOS2WinAscent, i.openTypeOS2WinDescent = 1100, 400
 
-procedures.add_argument(
-    '-g', '--generate', action='store_true',
-    help='generate OpenType classes'
-)
-procedures.add_argument(
-    '-r', '--reset', action='store_true',
-    help='reset style/instance directories'
-)
-procedures.add_argument(
-    '-i', '--instance', action='store_true',
-    help='generate instances'
-)
-procedures.add_argument(
-    '-m', '--match', action='store_true',
-    help='match mI (i matra) variants to base glyphs'
-)
-procedures.add_argument(
-    '-c', '--compile', action='store_true',
-    help='compile OTFs'
-)
-procedures.add_argument(
-    '--nointerpolate', action='store_true',
-    help='do not interpolate the masters'
-)
+    family.set_masters()
+    family.set_styles(STYLES_KHAND)
 
-if len(sys.argv) == 1:
-    parser.print_help()
-    sys.exit(2)
+    project = hindkit.Project(
+        family,
+        fontrevision = "2.010",
+        options = {
+            "prepare_kerning": True,
+            "prepare_mark_positioning": True,
+            "match_mI_variants": 1,
+                "position_marks_for_mI_variants": True,
+            "do_style_linking": True,
+            "additional_unicode_range_bits": [0, 1, 2],
+            "use_os_2_version_4": True,
+                "prefer_typo_metrics": True,
+            "build_ttf": True,
+        },
+    )
+    project.build()
 
-args = parser.parse_args()
+# --- Overriding ---
 
+hindkit.filters.POTENTIAL_BASES_FOR_LONG_mII.append("K_TA")
+hindkit.FeatureMatches.mI_VARIANT_NAME_PATTERN = r"mI\.a\d\d"
 
-if args.generate:
-    itf.generate_classes(directory = 'masters', suffix = '_0')
+# --- Executing ---
 
-
-if args.reset:
-
-    print '\n#ITF: Resetting style/instance directories...'
-
-    subprocess.call(['rm', '-fr', 'styles'])
-    subprocess.call(['mkdir', 'styles'])
-
-    for style_name in STYLE_NAMES:
-
-        print '\tResetting %s...' % style_name
-
-        style_dir = itf.STYLES_DIR + style_name
-        IsBoldStyle_value = 'false'
-
-        subprocess.call(['mkdir', style_dir])
-
-        with open(style_dir + '/features', 'w') as f:
-            f.write(itf.TEMPLATE_FEATURES)
-
-        with open(style_dir + '/fontinfo', 'w') as f:
-            if style_name == 'Bold':
-                IsBoldStyle_value = 'true'
-            f.write(itf.TEMPLATE_FONTINFO % IsBoldStyle_value)
-
-    print '#ITF: Done.\n'
-
-
-if args.instance:
-
-    masters = [
-        i for i in [
-            itf.get_font('masters', suffix) for suffix in ['_0', '_1']
-        ] if i
-    ]
-
-    if args.nointerpolate:
-
-        for font, style_name in zip(masters, STYLE_NAMES):
-
-            print "\n#ITF: %s" % style_name
-
-            style_dir = 'styles/' + style_name
-
-            subprocess.call([
-                'cp', '-fr', font.path,
-                style_dir + '/font.ufo'
-            ])
-
-            if '-mark' in UFOIG_ARGS:
-                WriteFeaturesMarkFDK.MarkDataClass(
-                    font = itf.get_font(style_dir),
-                    folderPath = style_dir,
-                    trimCasingTags = False,
-                    genMkmkFeature = True if '-mkmk' in UFOIG_ARGS else False,
-                    writeClassesFile = True if '-clas' in UFOIG_ARGS else False,
-                    indianScriptsFormat = True if '-indi' in UFOIG_ARGS else False
-                )
-
-            if '-flat' in UFOIG_ARGS:
-                print "#ITF: Flattening the glyphs..."
-                subprocess.Popen(
-                    ['checkoutlines', '-e', style_dir + '/font.ufo'],
-                    stderr=subprocess.STDOUT,
-                    stdout=subprocess.PIPE
-                ).communicate()
-                print "#ITF: Done."
-
-    else:
-
-        itf.fix_Glyphs_UFO_masters(masters)
-
-        subprocess.call(
-            ['UFOInstanceGenerator.py', 'masters', '-o', 'styles'] + UFOIG_ARGS
-        )
-
-
-if args.match:
-
-    print '\n#ITF: Matching mI...\n'
-
-    for style_name in STYLE_NAMES:
-        print '\t%s...' % style_name
-        itf.match_mI(style_name, MATCH_mI_OFFSETS_DICT[style_name])
-        print '\t%s done.\n' % style_name
-
-    print '#ITF: Done.\n'
-
-
-if args.compile:
-
-    subprocess.call(['rm', '-fr', 'build'])
-    subprocess.call(['mkdir', 'build'])
-
-    for style_name in STYLE_NAMES:
-
-        style_dir = 'styles/' + style_name
-        otf_path = 'build/%s-%s.otf' % (FAMILY_NAME, style_name)
-
-        subprocess.call([
-            'makeotf',
-            '-f', style_dir + '/font.ufo',
-            '-o', otf_path,
-            '-mf', 'FontMenuNameDB',
-            '-gf', 'GlyphOrderAndAliasDB',
-        ] + MAKEOTF_ARGS)
-
-        subprocess.call(['rm', '-f', style_dir + '/current.fpr'])
-
-        if os.path.exists(otf_path) and os.path.exists(OUTPUT_DIR):
-            subprocess.call(['cp', '-f', otf_path, OUTPUT_DIR])
+main()

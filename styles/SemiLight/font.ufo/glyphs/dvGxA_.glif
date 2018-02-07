@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvGxA" format="1">
-  <advance width="481"/>
-  <unicode hex="095A"/>
-  <outline>
-    <component base="dvNukta" xOffset="308" yOffset="153"/>
-    <component base="dvGA" xOffset="1"/>
-  </outline>
-</glyph>
