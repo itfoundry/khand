@@ -6,11 +6,6 @@ The base character height in the Khand fonts is ‘big on the body.’ Across a 
 
 The Khand family will include eight font styles. This broad range of weights makes combinations with a strong degree of contrast possible; the lightest and the heaviest styles may be mixed to create a powerful effect in your design. Khand’s Devanagari characters were designed by Sanchit Sawaria and Jyotish Sonowal. Its Latin is from Satya Rajpurohit. Khand was first published as an open source font family by the Indian Type Foundry in 2014.
 
-## Code base
-
-This working directory is forked from the common code base, [ITF Base Devanagari (for Google Fonts)](https://github.com/itfoundry/base-devanagari-gf).
-
 ## Dependencies
 
-- [Adobe Font Development Kit for OpenType](http://www.adobe.com/devnet/opentype/afdko.html) (AFDKO), version 2.5 build 63209 (Sep 18 2014) or newer.
-- A script [`UFOInstanceGenerator.py`](https://github.com/adobe-type-tools/python-scripts/blob/master/FDK%20Extras/UFOInstanceGenerator.py) (to be placed in AFDKO’s directory `FDK/Tools/osx`) and two [modules](https://github.com/adobe-type-tools/python-modules) (to be placed in Python’s `site-packages` directory) from Adobe.
+HindKit at `Khand`: https://github.com/itfoundry/hindkit/releases/tag/Khand
